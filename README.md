@@ -1,3 +1,3 @@
 # REC-DEMO
 This is our first  git repository
-Prof. - Smruti Sikha Dash
+Author-Prof.Smruti Sikha Dash
